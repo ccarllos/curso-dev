@@ -1,0 +1,46 @@
+body {
+    background: rgb(223, 223, 223);
+    font-family: 'Raleway', sans-serif;
+    color: rgb(34, 34, 34);
+}
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+.profile {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.foto-principal {
+    width: 200px ;
+    border: 2px solid #FFFFFF ;
+    border-radius: 50%;
+    margin: 30px 30px 0px 30px;  
+    box-shadow: 0px 0px 10px #959595;
+}
+h1 {
+    margin-top: 10px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-bottom: 0;
+    letter-spacing: -1;
+    font-size:40px;
+}
+h2 {
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(73, 73, 73);
+    font-weight: 100;
+    letter-spacing: -1px;
+}p {
+    line-height: 25px;
+}
+.social-links {
+    text-decoration: none;
+}
+.social-icons {
+    width: 20px;
+}
+.github {
+   margin: 0px 15px 0px 15px;
+   /*lembrando que a margin é no esquema relógio, ou seja, 0px pra cima 15px pra direita 0px pra baixo e 15px pra esqueda*/
+}
